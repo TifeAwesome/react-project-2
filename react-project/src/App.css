@@ -1,0 +1,28 @@
+.App {
+  border: 4px solid #61dafb;
+  margin: 7rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1.5rem;
+}
+.header h3 {
+  font-size: 2rem;
+}
+.header button {
+  background-color: green;
+  font-size: 2rem;
+  border: none;
+  color: #fff;
+  padding: 0 1.5rem;
+}
+.App .carry-out {
+  background: #f2f2f2;
+  padding: 1.8rem;
+  margin-bottom: 1.8rem;
+}
+.carry-out{
+  display: flex;
+}
